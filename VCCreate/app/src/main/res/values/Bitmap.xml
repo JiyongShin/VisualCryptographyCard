@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+//    Bitmap finalImage = new Bitmap(ImageSize.getWidth(), ImageSize.getHeight()); //최종이미지
+    Bitmap tempImage = new Bitmap(ImageSize.getWidth() / 2, ImageSize.getHeight()); //임시이미지
+<resources>
+    <bitmap
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:src="@[package:]drawable//"
+        android:titlemode="disabled"/>
+
+</resources>
